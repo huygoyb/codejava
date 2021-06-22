@@ -17,6 +17,7 @@ public class Rectangle {
     }
 
     public int getHeight() {
+
         return height;
     }
 
@@ -29,12 +30,13 @@ public class Rectangle {
     }
 
     public int area() {
+
         return wight * height;
     }
 
     public int perimeter() {
+
         return (wight + height) * 2;
     }
-    // giờ e muốn như nào. Muốn đẩy project nà len git à
-//    vang
+
 }
